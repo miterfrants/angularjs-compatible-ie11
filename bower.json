@@ -1,0 +1,23 @@
+{
+  "name": "angularjs-compatible-ie11",
+  "version": "0.0.1",
+  "homepage": "https://github.com/miterfrants/angularjs-compatible-ie11",
+  "authors": [
+    "Po-Hsiang Huang <miterfrants@gmail.com>"
+  ],
+  "description": "fix angularjs filter some time not work  in ie 11",
+  "main": "angular.js",
+  "keywords": [
+    "angular",
+    "ie11",
+    "compatible"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
